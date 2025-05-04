@@ -1,6 +1,6 @@
 RPi.GPIO==0.7.1
-adafruit-circuitpython-pn532==2.1.1
+adafruit-circuitpython-pn532
 adafruit-circuitpython-busdevice
-adafruit-circuitpython-register==1.1.0
+adafruit-circuitpython-register
 spidev==3.5
 Adafruit-ADS1x15==1.0.2
